@@ -35,7 +35,7 @@ _**Click on the title to view the Project File.**_
 4. Ariel Setiawan - 2201794574
 5. Jason Stanly Wingi - 2201795860
 #### Details:
-Employement project is the final project that i and my team made for Object Oriented Programming course at the 2nd Semester. This project required us to make an object oriented program that can run Employee Management System to do input, search, update, and delete data of the employee. **My contribution** in this project is to code half of the Employee section about input and update. The details about the program will be shown in the galleries.
+Employement project is the final project that i and my team made for Object Oriented Programming course at the 2nd Semester. This project required us to make an object oriented program that can run Employee Management System to do input, search, update, and delete data of the employee. **My Contribution** in this project is to code half of the Employee section about input and update. The details about the program will be shown in the galleries.
 #### Galleries:
 | Input         |
 | ------------- |
@@ -53,7 +53,7 @@ Employement project is the final project that i and my team made for Object Orie
 **4. Wilson Adrilia**
 5. Steven Odolf Yuwono
 #### Details:
-ByeDiabet is an mobile apps application created using iOS Platform. This application goals is to help user to observe their sugar level and also helping user to do a diet program to maintain their sugar and keep them health. This application also brought a features "Sugar Status" where the user can see their sugar level monthly. Not only that this application also have a features that challenge the user to do the diet program and if they manage to complete the challenge, there will be a reward. And the last but not least a features to remind them to drink their medicines.
+ByeDiabet is an mobile apps application created using iOS Platform. This application goals is to help user to observe their sugar level and also helping user to do a diet program to maintain their sugar and keep them health. This application also brought a features "Sugar Status" where the user can see their sugar level monthly. Not only that this application also have a features that challenge the user to do the diet program and if they manage to complete the challenge, there will be a reward. And the last but not least a features to remind them to drink their medicines. **My Contribution** in this project is to make the application about diabetes, doing research about diabetes, and making the concept of the wireframe.
 #### Galleries (Wireframe):
 | Splash Screen       | Splash Screen 2       | Splash Screen 3        | Splash Screen 4        |
 | ------------- | ------------- | ------------- | ------------- |

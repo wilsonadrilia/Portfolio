@@ -57,12 +57,15 @@ Employement project is the final project that i and my team made for Object Orie
 | Splash Screen       | Splash Screen 2       | Splash Screen 3        | Splash Screen 4        |
 | ------------- | ------------- | ------------- | ------------- |
 | ![Splash Screen](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/1-Splash%20Screen%201.png "Splash Screen") | ![Splash Screen 2](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/2-Splash%20Screen%202.png "Splash Screen 2") | ![Splash Screen 3](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/3-Splash%20Screen%203.png "Splash Screen 3") | ![Splash Screen 4](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/4-Splash%20Screen%204.png "Splash Screen 4") |
+
 | First Login(Biodata)        | Second Login(Add)       | Add Medicine       | Third Login(Start)        |
 | ------------- | ------------- | ------------- | ------------- |
 | ![First Login(Biodata)](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/5-First%20Login%20Screen.png "First Login(Biodata)") | ![Second Login(Add)](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/6-Second%20Login%20Screen.png "Second Login(Add)") | ![Add Medicine](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/7-Add%20Medicine.png "Add Medicine") |  ![Third Login(Start)](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/8-Third%20Login%20Screen.png "Third Login(Start)") |
+
 | Reminder        | Sugar Stats       | Diet Plan       | Challenges        |
 | ------------- | ------------- | ------------- | ------------- |
 | ![Reminder](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/9-Reminder.png "Reminder") | ![Sugar Stats](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/10-Sugar%20Status.png "Sugar Stats") | ![Diet Plan](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/11-Diet%20Plan.png "Diet Plan") |  ![Challenges](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/12-Challenges.png "Challenges") |
+
 | Description Recipe        |
 | ------------- |
 | ![Description Recipe](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/13-Description%20Recipe.png "Description Recipe") |

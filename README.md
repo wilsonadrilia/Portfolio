@@ -5,8 +5,10 @@ _**Click on the title to view the Project File.**_
 Wilson Adrilia
 #### Details:
 Caroline Rentals is my first project that i made in BINUS. This project is made to fulfill a test in BINUS by using HTML, CSS, and JS.
-#### Galleries
-![Home](https://github.com/wilsonadrilia/Portfolio/blob/master/Project1%20img/Home.png "Home")
+#### Galleries:
+| Homepage      |
+| ------------- |
+| ![Home](https://github.com/wilsonadrilia/Portfolio/blob/master/Project1%20img/Home.png "Home") |
 ![Product](https://github.com/wilsonadrilia/Portfolio/blob/master/Project1%20img/Product.png "Product")
 ![Contact](https://github.com/wilsonadrilia/Portfolio/blob/master/Project1%20img/Contact.png "Contact")
 ![Login](https://github.com/wilsonadrilia/Portfolio/blob/master/Project1%20img/Login.png "Login")

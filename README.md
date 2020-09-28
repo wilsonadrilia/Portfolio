@@ -30,7 +30,7 @@ Caroline Rentals is my first project that i made in BINUS. This project is made 
 _**Click on the title to view the Project File.**_
 #### Created By:
 1. I Made Ganal Asmara Jaya - 2201799386
-2. Wilson Adrilia - 2201820502
+**2. Wilson Adrilia - 2201820502**
 3. Andreas Wijaya - 2201734120
 4. Ariel Setiawan - 2201794574
 5. Jason Stanly Wingi - 2201795860
@@ -50,10 +50,11 @@ Employement project is the final project that i and my team made for Object Orie
 1. Christian Surjanto
 2. Cindy Wu
 3. David Wang
-4. Wilson Adrilia
+**4. Wilson Adrilia**
 5. Steven Odolf Yuwono
-
-#### Wireframe:
+#### Details:
+ByeDiabet is an mobile apps application created using iOS Platform. This application goals is to help user to observe their sugar level and also helping user to do a diet program to maintain their sugar and keep them health. This application also brought a features "Sugar Status" where the user can see their sugar level monthly. Not only that this application also have a features that challenge the user to do the diet program and if they manage to complete the challenge, there will be a reward. And the last but not least a features to remind them to drink their medicines.
+#### Galleries (Wireframe):
 | Splash Screen       | Splash Screen 2       | Splash Screen 3        | Splash Screen 4        |
 | ------------- | ------------- | ------------- | ------------- |
 | ![Splash Screen](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/1-Splash%20Screen%201.png "Splash Screen") | ![Splash Screen 2](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/2-Splash%20Screen%202.png "Splash Screen 2") | ![Splash Screen 3](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/3-Splash%20Screen%203.png "Splash Screen 3") | ![Splash Screen 4](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/4-Splash%20Screen%204.png "Splash Screen 4") |

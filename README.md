@@ -121,3 +121,12 @@ Features of PopLegal are:
 | ![First Login(Biodata)](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/5-Navbar.png "Navbar") | ![Contact](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/6-Contact.png "Contact") | ![Chat](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/7-Chat.png "Chat") |  ![Feedback](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/8-Feedback.png "Feedback") |
 
 
+## Project 6: Indonesia COVID-19 Tracker (Human-Computer Interaction)
+#### Created By:
+1. **Wilson Adrilia - 2201820502**
+#### Details:
+Indonesia COVID-19 Tracker is a project that i made for the mid-exam of Human-Computer Interaction course at the 4th Semester. In this project, i made a simple UI Design for mobile-base applicattion that can track the COVID-19 in Indonesia. I only made 3 pages of UI in this project.
+#### Galleries (Wireframe):
+| Login         | Home Screen       | Maps        |
+| ------------- | ------------- | ------------- |
+| ![Login](https://github.com/wilsonadrilia/Portfolio/blob/master/Project6/Login.png "Login") | ![Home Screen](https://github.com/wilsonadrilia/Portfolio/blob/master/Project6/Homepage.png "Home Screen") | ![Maps](https://github.com/wilsonadrilia/Portfolio/blob/master/Project6/Maps.png "Maps") |

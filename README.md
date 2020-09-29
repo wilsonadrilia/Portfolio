@@ -101,3 +101,23 @@ RX-Player is the final project for Human-Computer Interaction course that me and
 | ------------- |
 | ![Register](https://github.com/wilsonadrilia/Portfolio/blob/master/Project4%20img/5-Register.png "Register") |
 
+## Project 5: PopLegal (Software Engineering)
+#### Created By:
+1. **Wilson Adrilia - 2201820502**
+#### Details:
+PopLegal is a project that i made for the mid-exam of Software Engineering course at the 4th Semester. It's a mobile-based application with the goals is to provide user a legal consultation platform that have a legal proffesionals that they can consult with. 
+Features of PopLegal are:
+* Choose a legal professional for consultation between an Advocate or a Notary
+* Approval by the chosen legal professional
+* Chatting between the two parties
+* Giving feedback for both parties
+#### Galleries (Wireframe):
+| Splash Screen       | Login       | Signup        | Home        |
+| ------------- | ------------- | ------------- | ------------- |
+| ![Splash Screen](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/1-Splash%20Screen.png "Splash Screen") | !Login](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/2-Login.png "Login") | ![Signup](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/3-Signup.png "Signup") | ![Home](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/4-Home.png "Home") |
+
+| Navbar        | Contact       | Chat          | Feedback        |
+| ------------- | ------------- | ------------- | ------------- |
+| ![First Login(Biodata)](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/5-Navbar.png "Navbar") | ![Contact](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/6-Contact.png "Contact") | ![Chat](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/7-Chat.png "Chat") |  ![Feedback](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/8-Feedback.png "Feedback") |
+
+

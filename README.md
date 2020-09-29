@@ -114,7 +114,7 @@ Features of PopLegal are:
 #### Galleries (Wireframe):
 | Splash Screen       | Login       | Signup        | Home        |
 | ------------- | ------------- | ------------- | ------------- |
-| ![Splash Screen](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/1-Splash%20Screen.png "Splash Screen") | !Login](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/2-Login.png "Login") | ![Signup](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/3-Signup.png "Signup") | ![Home](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/4-Home.png "Home") |
+| ![Splash Screen](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/1-Splash%20Screen.png "Splash Screen") | [!Login](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/2-Login.png "Login") | ![Signup](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/3-Signup.png "Signup") | ![Home](https://github.com/wilsonadrilia/Portfolio/blob/master/Project5/4-Home.png "Home") |
 
 | Navbar        | Contact       | Chat          | Feedback        |
 | ------------- | ------------- | ------------- | ------------- |

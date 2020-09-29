@@ -71,3 +71,33 @@ ByeDiabet is an mobile apps application created using iOS Platform. This applica
 | ------------- |
 | ![Description Recipe](https://github.com/wilsonadrilia/Portfolio/blob/master/Project3/13-Description%20Recipe.png "Description Recipe") |
 
+## [Project 4: RX-Player (Human-Computer Interaction)](https://github.com/wilsonadrilia/Project-RX-Player.git)
+_**Click on the title to view the Project File.**_
+#### Created By: 
+1. 2201738346 - Alvin
+2. 2201752325 - Jonathan Kurnia
+3. **2201820502 - Wilson Adrilia**
+4. 2201831134 - Alexander Hung
+#### Details:
+RX-Player is the final project for Human-Computer Interaction course that me and my team made in the 4th Semester. This project purpose is to make a new music website using human-computer interaction approach. This website design by using HTML, CSS, and Pre-Register JS to make the slider and consist of 5 pages in total (Home, Premium, Top 10 Asian Music, Music Genre, Register). **My Contribution** in this project is to make the Top 10 Asian Music page and also helping to make the other page and review it, but mainly focused in the Top 10 page. The website will be shown on the galleries below.
+#### Galleries:
+| Homepage      |
+| ------------- |
+| ![Home](https://github.com/wilsonadrilia/Portfolio/blob/master/Project4%20img/1-Homepage.png "Home") |
+
+| Premium       |
+| ------------- |
+| ![Premium](https://github.com/wilsonadrilia/Portfolio/blob/master/Project4%20img/2-Premium.png "Premium") |
+
+| Top 10        |
+| ------------- |
+| ![Top 10](https://github.com/wilsonadrilia/Portfolio/blob/master/Project4%20img/3-Top10.png "Top 10") |
+
+| Genre         |
+| ------------- |
+| ![Genre](https://github.com/wilsonadrilia/Portfolio/blob/master/Project4%20img/4-Genre.png "Genre") |
+
+| Register      |
+| ------------- |
+| ![Register](https://github.com/wilsonadrilia/Portfolio/blob/master/Project4%20img/5-Register.png "Register") |
+

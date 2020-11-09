@@ -140,6 +140,7 @@ Ezy Food is a simple food ordering mobile application i made for the mid-exam of
 | Main Manu       | Drinks      | Snacks        | Foods         |
 | ------------- | ------------- | ------------- | ------------- |
 | ![Main Menu](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113321.png "Main Menu") | ![Drinks](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113336.png "Drinks") | ![Snacks](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113400.png "Snacks") | ![Foods](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113416.png "Foods") |
+
 | Top Up    | Order      | My Order        | Order Complete     |
 | ------------- | ------------- | ------------- | ------------- |
 | ![Top Up](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113504.png "Top Up") | ![Order](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113447.png "Order") | ![My Orer](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113519.png "My Order") | ![Order Complete](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113533.png "Order Complete") |

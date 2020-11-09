@@ -125,8 +125,18 @@ Features of PopLegal are:
 #### Created By:
 1. **Wilson Adrilia - 2201820502**
 #### Details:
-Indonesia COVID-19 Tracker is a project that i made for the mid-exam of Human-Computer Interaction course at the 4th Semester. In this project, i made a simple UI Design for mobile-base applicattion that can track the COVID-19 in Indonesia. I only made 3 pages of UI in this project.
+Indonesia COVID-19 Tracker is a project that i made for the mid-exam of Human-Computer Interaction course at the 4th Semester. In this project, i made a simple UI Design for mobile-base application that can track the COVID-19 in Indonesia. I only made 3 pages of UI in this project.
 #### Galleries (Wireframe):
 | Login         | Home Screen       | Maps        |
 | ------------- | ------------- | ------------- |
 | ![Login](https://github.com/wilsonadrilia/Portfolio/blob/master/Project6/Login.png "Login") | ![Home Screen](https://github.com/wilsonadrilia/Portfolio/blob/master/Project6/Homepage.png "Home Screen") | ![Maps](https://github.com/wilsonadrilia/Portfolio/blob/master/Project6/Maps.png "Maps") |
+
+## [Project 7: Ezy Food (Mobile Programming - Android)](https://github.com/wilsonadrilia/EzyFood-Android.git)
+#### Created By:
+1. **Wilson Adrilia - 2201820502**
+#### Details:
+Ezy Food is a simple food ordering mobile application i made for the mid-exam of Mobile Programming course. In this project, i'm using Java Android Studio to make the application. All the design and function made by myself.
+| Main Manu       | Drinks      | Snacks        | Foods         |
+| ------------- | ------------- | ------------- | ------------- |
+| ![Main Menu](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113321.png "Main Menu") | ![Drinks](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113336.png "Drinks") | ![Snacks](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113400.png "Snacks") | ![Foods](https://github.com/wilsonadrilia/Portfolio/blob/master/Project7/device-2020-11-09-113416.png "Foods") |
+
